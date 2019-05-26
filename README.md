@@ -1,1 +1,1 @@
-# quickshort-js
+# quicksort-js
